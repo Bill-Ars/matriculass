@@ -63,13 +63,7 @@ Funcionalidades
 
 ---
 
-com.gestao.matriculass
-│
-├─ configuration → Configuração inicial (dados de teste)
-├─ controller → REST Controllers
-├─ entities → Classes de entidade JPA
-├─ repository → Interfaces de acesso ao banco
-└─ service → Lógica de negócio
+
 
 
 Autor
